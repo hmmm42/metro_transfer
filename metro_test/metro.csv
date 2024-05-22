@@ -1,0 +1,19 @@
+Station ID,Station,Line No.,Transferable station ID
+1,Shanghai University of Finance and Economics,Line 18,
+2,Fudan University,Line 18,
+3,Guoquan Road,Line 18,5
+4,Tongji University,Line 10,
+5,Guoquan Road,Line 10,3
+6,Shanghai Jiao Tong University,Line 10,9
+7,Hongqiao Railway Station,Line 10,12
+8,Hongqiao Terminal 2,Line 10,13
+9,Shanghai Jiao Tong University,Line 11,6
+10,Disney,Line 11,
+11,People Square,Line 1,14/17
+12,Hongqiao Railway Station,Line 2,7
+13,Hongqiao Terminal 2,Line 2,8
+14,People Square,Line 2,11/17
+15,Pudong International Airport,Line 2,
+16,Oriental Sports Center,Line 8,
+17,People Square,Line 8,11/14
+18,Hongkou Football Stadium,Line 8,
